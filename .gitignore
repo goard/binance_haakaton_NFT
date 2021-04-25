@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/hub-browser-auth-app/node_modules
+/hub-browser-auth-app/dist
+/hub-browser-auth-app/.env
 
 # testing
 /coverage
