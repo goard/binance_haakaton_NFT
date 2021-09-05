@@ -98,7 +98,6 @@ const TopBar = (props) => {
           />
         </Link>
         <Typography className={classes.logoName}>NFT Market</Typography>
-        <Typography className={classes.logoName}>Testnet Binance Smart Chain</Typography>
         <div className={classes.search}>
           <div className={classes.searchIcon}>
             <SearchIcon />

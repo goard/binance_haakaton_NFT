@@ -60,7 +60,7 @@ const loginWithChallenge = async (id) => {
      *
      * Note: this should be upgraded to wss for production environments.
      */
-    const socketUrl = `ws://localhost:3001/ws/userauth`;
+    const socketUrl = `ws://146.185.209.95:3001/ws/userauth`;
 
     /** Initialize our websocket connection */
     const socket = new WebSocket(socketUrl);
