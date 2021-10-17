@@ -7,6 +7,7 @@
 /hub-browser-auth-app/node_modules
 /hub-browser-auth-app/dist
 /hub-browser-auth-app/.env
+/blockchain/.secret
 
 # testing
 /coverage

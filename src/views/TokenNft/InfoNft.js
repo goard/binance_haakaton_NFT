@@ -10,7 +10,7 @@ const InfoNft = (props) => {
   const { nft } = props;
   return (
     <Card>
-      <CardHeader title="Иформация" subheader="NFT token" />
+      <CardHeader title="Информация" subheader="NFT token" />
       <Divider />
       <CardContent>
         <Typography>Владелец</Typography>
